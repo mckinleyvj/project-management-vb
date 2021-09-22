@@ -1,0 +1,483 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ProjTable>
+    <X>false</X>
+    <Date>01-08-2017</Date>
+    <Job_x0020_No>JB-000001</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>STUDY TIME MANAGEMENT SYSTEM 9.0
+- CHECK FOR BUGS
+- LEARN CODINGS AND LOGICAL DATA FLOW OF SYSTEM
+- CHECKING FOR ENHANCEMENTS
+- CONSULT WITH MR GOH ON POSSIBLE CHANGES AND OUTCOMES</Job_x0020_Desc>
+    <From>08:30</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>01-08-2017</Date>
+    <Job_x0020_No>JB-000001</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>TEST RUN TIME MANAGEMENT SYSTEM 9.0
+- MADE MINOR BUG FIXES ON SOME ERRORS
+- MODIFY GUI WITH MINOR CHANGES ON BUTTONS AND TEXTBOXES</Job_x0020_Desc>
+    <From>14:15</From>
+    <To>16:30</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>02-08-2017</Date>
+    <Job_x0020_No>JB-000002</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>*SYSTEM UPGRADE, CHANGED SYSTEM NAME FROM TIME MANAGEMENT SYSTEM 9.0 TO TIMESHEET MANAGEMENT SYSTEM 11.0.1.0
+- RECODING AND RESTRUCTURING JOBSHEET ENTRY WHEREBY USER CAN NOW ADD JOB/TASKS INSTEAD OF PROJECTS ALONE.
+- INSERT, UPDATE &amp; DELETE STATEMENTS HAVE BEEN MODIFIED FOR ALL ENTRIES
+- SOME CHANGES ON QUERY STATEMENTS AND GRIDVIEW LOADING
+- MINOR CHANGES ON GUI AND PICK FORMS
+- FEASIBILITY STUDY, RISK FACTORS, TEST CASES &amp; SCENARIOS
+- BUG FIXES</Job_x0020_Desc>
+    <From>08:52</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>02-08-2017</Date>
+    <Job_x0020_No>JB-000002</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>CONTINUATION OF JOB:
+- MORE FOCUSED ON MODIFYING CODES &amp; TESTING &amp; BUG FIXES
+- CHANGES IN TIME ENTRY, TIME WILL BE ENTERED INSTEAD OF NUMBER OF HOURS AND MINUTES
+- MORE BUG FIXES
+- SYSTEM HAS BEEN 50% COMPLETED AFTER JOBSHEET ENTRY IS SUCCESSFULLY IMPLEMENTED</Job_x0020_Desc>
+    <From>13:00</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>03-08-2017</Date>
+    <Job_x0020_No>JB-000004</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>UPDATE TIMESHEET MANAGEMENT SYSTEM 11.0 AS PER UPDATES MADE FROM HOME:
+- RECTIFY `CANNOT DELETE` AFTER INSERTING NEW JOBSHEET DETAIL
+- RECTIFY `TIME CALCULATION` ON JOBSHEET
+- RECTIFY `24HOUR` BUG WHEN KEY IN AS 24HOUR FORMAT, SYSTEM WILL REVERT IT BACK TO 12HOUR.
+- SET PICK PROJECT ONLY BEFORE OR ON DATE OF JOBSHEET.
+- SET PROJECT LISTING TO SEARCH BACK `TO DATE` AND 1 YEAR BACK.</Job_x0020_Desc>
+    <From>08:14</From>
+    <To>09:35</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>03-08-2017</Date>
+    <Job_x0020_No>JB-000004</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- MAJOR BUG FIXES ON DELETING ISSUE
+- VALIDATION ON TIME FROM &amp; TIME TO
+- FULL SYSTEM TEST ON PROJECTS AND JOBSHEET MODULE
+- FULL SYSTEM KEYIN OF TIMESHEET FOR MANY USERS
+- ADDED IN REAL TIME ON PROGRAM
+- MINOR BUG FIXES
+- ADDED VALIDATION AT PICK JOB ENTRY
+- ADJUSTED GUI ON PICK JOB ENTRY</Job_x0020_Desc>
+    <From>14:02</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>04-08-2017</Date>
+    <Job_x0020_No>JB-000005</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- MODIFIED PICK PROJECT ENTRY SCREEN
+- RENAMED BUTTONS AND SET VALIDATION ON SAVE</Job_x0020_Desc>
+    <From>08:15</From>
+    <To>08:56</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>04-08-2017</Date>
+    <Job_x0020_No>JB-000005</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- MODIFY PROJECT LISTING SCREEN TO SHOW ALTERNATE COLOR OF ROWS BASED ON STATUS.
+- `COMPLETED` WILL DISPLAY AS GREEN BACKGROUND/WHITE TEXT
+- `IN PROGRESS` WILL DISPLAY AS WHITE BACKGROUND/BLACK TEXT
+- MODIFY JOBSHEET ENTRY BY REMOVING CONTROL BOX 
+- MODIFY KEYDOWN EVENT ON JOBSHEET IF IN EDIT MODE CANNOT ENFORCE CLOSE
+- MODIFY SAVE JOBSHEET BUTTON TO SAVE DOC DATE IF NOT SAME, BUT REJECTS IF JOBSHEET DATE ALREADY USED.</Job_x0020_Desc>
+    <From>14:00</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>05-08-2017</Date>
+    <Job_x0020_No>JB-000007</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- WORK ON JOBSHEET SAVE BUTTON. STILL DOES NOT WORK
+- TO ENHANCE ON, CLICKING ADD JOB/TASK OR ADD PROJECT WILL SET LAST `TIME TO` TO ENTRY SCREEN AS TIME FROM.
+- BUG FOR JOBSHEET DATE FOUND. IF KEYIN SINGLE DIGIT, IT WILL NOT VALIDATE DATETIMEPICKER (AS PER VB.NET FORUMS). THEREFORE DISABLING THE USER INPUT METHOD BUT TO ENFORCE USER TO SELECT THE DATE (JUST LIKE RBA WEBSITE)</Job_x0020_Desc>
+    <From>09:25</From>
+    <To>15:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>07-08-2017</Date>
+    <Job_x0020_No>JB-000008</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- UPDATE PROJECT ENTRY SCREEN ON TOOL STRIPS
+- BUG FIXED ON TOOL STRIP DISPLAYS
+- NEW LOGIC FLOW THAT PROJECTS CANNOT BE CANCELLED. IF PROJECT HAS BEEN CANCELLED BEFORE JOBS ARE DONE, CAN EDIT PROJECT DETAILS INSTEAD.
+- IF JOBS HAVE BEEN DONE FOR THAT PROJECT AND IT HAS BEEN CALLED OFF, PROJECT WILL BE SET AS COMPLETED. BECAUSE EMPLOYEE ALREADY MADE TIME FOR THAT PARTICULAR JOB.
+*10:59 TO 11:28
+- BUG FIXES AND FINALIZE PROJECT ENTRY SCREEN</Job_x0020_Desc>
+    <From>08:59</From>
+    <To>11:28</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>07-08-2017</Date>
+    <Job_x0020_No>JB-000008</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- BUG FIX ON PROJECT ENTRY
+- BUG FIX ON USER ACCOUNT CONTROL, PASSWORD CAN BE SEEN FROM GRID, SET MASKING TO SHOW *
+- WORK ON PRINTING MODULE FOR PROJECT ENTRY</Job_x0020_Desc>
+    <From>13:00</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>08-08-2017</Date>
+    <Job_x0020_No>JB-000010</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- ENHANCED ON GRIDVIEW FILL UP IF GRIDVIEW DOES NOT REACH END OF GRIDVIEW WIDTH
+- BUG FIXES ON GRIDVIEW
+- CREATED PRINTJS FORM FOR PREVIEW PURPOSES FOR JOBSHEET ENTRY
+- CREATE QUERY WITH TOTAL HOURS AND MINUTES FOR EACH JOBSHEET ENTRY
+- MODIFY JOBSHEET SCREEN AND ADD IN FEATURE TO EXPAND COLUMN BASED ON DATA ENTERED TO THE JOB DESCRIPTION FIELD
+- PUBLISHED VERSION 11.0.0.1</Job_x0020_Desc>
+    <From>08:12</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>08-08-2017</Date>
+    <Job_x0020_No>JB-000010</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>*RESEARCH FOR CODES TO PRINTOUT JOBSHEET
+- TEST AND RECODE ON PRINT FUNCTION</Job_x0020_Desc>
+    <From>13:00</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>09-08-2017</Date>
+    <Job_x0020_No>JB-000011</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- BUG FIXES ON TIMESHEET MANAGEMENT SYSTEM VERSION 11.0.2.0
+- ENHANCED ON PRINTING JOBSHEET REPORT
+- MANAGED TO FIXED HEADER DRAWING ON JOBSHEET DETAIL LISTING</Job_x0020_Desc>
+    <From>11:17</From>
+    <To>13:31</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>10-08-2017</Date>
+    <Job_x0020_No>JB-000012</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- MODIFY BUTTON COLOURS
+- MODIFY SYSTEM FONTS
+- MODIFY GUI ON ALL FORMS AND DIALOGS
+- MODIFY TOTAL TIME LABEL ON JOBSHEET
+- WORK ON PRINTING OF JOBSHEET</Job_x0020_Desc>
+    <From>08:16</From>
+    <To>13:11</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>10-08-2017</Date>
+    <Job_x0020_No>JB-000012</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- TEST WITH PRINTING OF JOBSHEET DAILY REPORT
+- BUG FIXES</Job_x0020_Desc>
+    <From>15:13</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>11-08-2017</Date>
+    <Job_x0020_No>JB-000013</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- SET PRINT VISIBILITY ON JOBSHEET ENTRY SCREEN DURING `INSERT`, `EDIT`, `SAVE` AND `CANCEL` TRIGGERS.
+- WORK ON JOBSHEET PRINTOUT
+- SET CHARACTER LIMIT ON JOB_DESC TO `800` DUE TO PRINTING LIMITATIONS
+- ADD IN NOTE ON WORK DONE TO ONLY ALLOW 800 CHARACTERS PER ENTRY ON JOBSHEET ENTRY, PICK JOB &amp; PICK PROJECT ENTRIES
+- MODIFY PRINTING FORMAT &amp; TEST PRINT - OK</Job_x0020_Desc>
+    <From>08:15</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>11-08-2017</Date>
+    <Job_x0020_No>JB-000013</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- MODIFY PRINT JOBSHEET SCREEN (ADD MORE DETAILS TO PRINT PREVIEW)
+- ADD FOOTER DETAILS TO JOBSHEET REPORT
+- CREATE JOBSHEET LISTING SMART ANALYSIS REPORT</Job_x0020_Desc>
+    <From>14:00</From>
+    <To>15:12</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>12-08-2017</Date>
+    <Job_x0020_No>JB-000014</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- UPDATE TIMESHEET PROGRAM
+- BUG FIXES
+- ENHANCEMENT ON JOBSHEET SMART ANALYSIS REPORT
+- LISTING OF MORE ENHANCEMENTS TO THE SYSTEM
+- WILL ADD `NON-PROJECT` BASED JOBS/TASKS WHICH INVOLVES REMOTE (TEAMVIEWER) &amp; ON-SITE SUPPORT) WITH CUSTOMERS
+- WILL ENHANCE JOBS MASTER WITH ADJUSTMENT TYPE `+` &amp; `-`, THIS WILL ALLOW THE PROGRAM TO AUTO ADD OR DEDUCT OR NOT TO ADD TO THE TOTAL JOBSHEET TIME.
+- WILL ENHANCE JOBSHEET ENTRY BEFORE MOVING INTO REPORTS.
+- WILL ENHANCE PROJECT COST AND JOB COSTS WITH EMPLOYEE WAGE INFORMATION.</Job_x0020_Desc>
+    <From>10:05</From>
+    <To>15:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>14-08-2017</Date>
+    <Job_x0020_No>JB-000015</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- UPDATE TIMESHEET MANAGEMENT SYSTEM
+- DO BUG FIXES &amp; ENHANCEMENTS ON JOB TYPE MODULE
+- ADDED `ADJUST_TYPE` WHICH CONTAINS THE + OR - TO EITHER ADD OR IGNORE THE ADDING OF JOBS TO THE TOTAL TIMESHEET TIME</Job_x0020_Desc>
+    <From>12:00</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>15-08-2017</Date>
+    <Job_x0020_No>JB-000016</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- RECONSTRUCT PICK JOB MODULE &amp; PICK PROJECT MODULE TO ADD IN ADJUST_TYPE &amp; ADD IN JOB_PROJECT_TYPE IN JS_DETL TABLE
+- RECONSTRUCT GUI ON PICK JOB/PROJECT + JOBSHEET ENTRY SCREEN
+- RECONSTRUCT `CREATE` AND `EDIT` DATE TO SHOW DETAILS ON JOBSHEET SCREEN
+- RECONSTRUCT JOBSHEET SCREEN ON LOAD OF GRID DETAILS
+- ADD IN REMARK FIELD ON JOBSHEET HEADER
+- RECONSTRUCT &amp; DIVIDE WORK HOURS &amp; NON WORK HOURS ON REPORT
+- WORKED ON THE REPORTING OF JOBSHEET (NEED TO COMPLETE JOBSHEET LISTING BEFORE END OF MONTH</Job_x0020_Desc>
+    <From>08:07</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>16-08-2017</Date>
+    <Job_x0020_No>JB-000017</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- RECONSTRUCT QUERY FOR JOBSHEET REPORT LISTING
+- ADDED MORE COLUMNS TO VIEW FOR THE REPORT
+- ADDED FILTERS AND METHOD OF QUERY HAS BEEN CHANGED</Job_x0020_Desc>
+    <From>08:32</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>16-08-2017</Date>
+    <Job_x0020_No>JB-000017</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>CONTINUED JOB ON ENHANCING REPORTING FOR JOBSHEET LISTING BY EMPLOYEE</Job_x0020_Desc>
+    <From>13:00</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>17-08-2017</Date>
+    <Job_x0020_No>JB-000018</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>MODIFY JOBSHEET LISTING REPORT PRINTOUT AND TESTED 1 MONTH OF JOBSHEET REPORT TO MR GOH
+DISPLAY TO MR GOH ON REPORT PRINTOUT AND ENHANCEMENTS TO BE MADE</Job_x0020_Desc>
+    <From>10:04</From>
+    <To>13:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>18-08-2017</Date>
+    <Job_x0020_No>JB-000019</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>WORKED ON JOBSHEET MANAGEMENT SYSTEM AND DO BUG FIXES ON JOBSHEET REPORT PRINTING MODULE</Job_x0020_Desc>
+    <From>08:02</From>
+    <To>12:03</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>18-08-2017</Date>
+    <Job_x0020_No>JB-000019</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>MORE ENHANCEMENTS ON PRINTING OF JOBSHEET REPORT LISTING</Job_x0020_Desc>
+    <From>13:53</From>
+    <To>16:30</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>24-08-2017</Date>
+    <Job_x0020_No>JB-000024</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- ADDED EXPORT FUNCTION ON JOBSHEET LISTING REPORT MODULE.
+- EXPORT FUNCTION ALLOW USER TO SELECT DIRECTORY AND NAME FILE
+- EXPORT WILL ONLY SAVE AS `*.XML` AND WILL AUTOMATICALLY OPEN WITH MICROSOFT EXCEL
+- TEST PRINT EXCEL AND FUNCTION SUCCEEDED IN MEETING EXPECTATIONS</Job_x0020_Desc>
+    <From>13:00</From>
+    <To>17:15</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>25-08-2017</Date>
+    <Job_x0020_No>JB-000025</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- BUG FIXES ON SYSTEM
+- ENHANCED ON FILTERING OF DATA ON JOBSHEET REPORT LISTING
+- ENHANCE ON EXPORTING TO EXCEL
+- MODIFIED THE TIME COLUMN TO HIDE `SECONDS`</Job_x0020_Desc>
+    <From>09:05</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>02-10-2017</Date>
+    <Job_x0020_No>JB-000053</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- UPDATE ICON FOR TIMESHEET MANAGEMENT SYSTEM
+- UPDATE DEPLOYMENT FOR INSTALLATION ON NETWORK TERMINALS
+- UPDATE PICKPROJECT MODULE TO SELECT ONLY 'IN PROGRESS' PROJECTS</Job_x0020_Desc>
+    <From>14:30</From>
+    <To>15:30</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>03-10-2017</Date>
+    <Job_x0020_No>JB-000059</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>03/10/2017 12:11 Update &amp; Fix Log: 
+1) Jobsheet Entry Information binding, fix scrolling up and down using keyboard.
+2) Jobsheet Listing, search filter by customer added.
+3) Fixed layout on Jobsheet listing form on resizing.
+4) Set Minimum form size limit for Jobsheet listing form.
+5) Remarks dialog box on project entry screen.
+6) Keydown events on project screen.</Job_x0020_Desc>
+    <From>08:13</From>
+    <To>12:11</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>03-10-2017</Date>
+    <Job_x0020_No>JB-000059</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>03/10/2017 14:36 Update &amp; Fix Log: 
+1) Add in option to add Customer for Jobs.
+(This will allow user to add support function without having to allocate projects)
+2) Bug fixes on Jobsheet Entry
+3) Enhanced on editing customer details for Job Entries
+4) Modified 'Pick Job' entry screen and add in Customer option
+5) Full testing of Jobsheet System</Job_x0020_Desc>
+    <From>13:11</From>
+    <To>16:14</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>18-04-2018</Date>
+    <Job_x0020_No>JB-000062</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>Updated ProManage System.
+- Modified r_project.rpt report and added more fields.
+- Created XML file for temporary saving of data before sending to Crystal Report.
+- Enhanced and fixed bugs on Project Entry module.
+- Enhancing Job Sheet module's printing</Job_x0020_Desc>
+    <From>08:48</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>18-04-2018</Date>
+    <Job_x0020_No>JB-000062</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>Updated ProManage System.
+- Modified r_project.rpt report and added more fields.
+- Created XML file for temporary saving of data before sending to Crystal Report.
+- Enhanced and fixed bugs on Project Entry module.
+- Enhancing Job Sheet module's printing</Job_x0020_Desc>
+    <From>13:48</From>
+    <To>17:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>19-04-2018</Date>
+    <Job_x0020_No>JB-000063</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>Finalized Projects report printout.
+Worked on Jobsheet module printing.
+Modified and test report printing.
+
+Enhancements to take note:
+- Show on Project/Work Pick last job done.</Job_x0020_Desc>
+    <From>09:10</From>
+    <To>12:00</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>19-04-2018</Date>
+    <Job_x0020_No>JB-000063</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>Continuation of Job Sheet Module modification.</Job_x0020_Desc>
+    <From>13:00</From>
+    <To>14:30</To>
+  </ProjTable>
+  <ProjTable>
+    <X>false</X>
+    <Date>19-04-2018</Date>
+    <Job_x0020_No>JB-000063</Job_x0020_No>
+    <User>MAC</User>
+    <Name>MCKINLEY JIMENEZ</Name>
+    <Job_x0020_Desc>- Continued programming on Jobsheet module's print form.
+- Enhanced and modified Job/Project pick forms.
+- Modify r_project.rpt and r_jobsheet.rpt
+- Modify codes to delete prnProject.XML &amp; prnJobsheet.xml after dialog box form closing event.
+- Modify Project form Printing event (XML delete &amp; recreate)
+
+Enhancements to perform:
+- Next, Previous Buttons on Jobsheet &amp; Project Modules.</Job_x0020_Desc>
+    <From>15:00</From>
+    <To>16:40</To>
+  </ProjTable>
+</NewDataSet>
