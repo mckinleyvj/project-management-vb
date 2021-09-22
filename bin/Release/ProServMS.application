@@ -14,14 +14,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ProServMS.exe.manifest" size="11977">
+    <dependentAssembly dependencyType="install" codebase="ProServMS.exe.manifest" size="11978">
       <assemblyIdentity name="ProServMS.exe" version="12.0.1.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>158cOtGF+aoNyjJzcGS51vYiApw=</dsig:DigestValue>
+        <dsig:DigestValue>9dzHletip2aS8ase0x7f09pYHQQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

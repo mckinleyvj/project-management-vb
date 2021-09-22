@@ -26,7 +26,7 @@ Public Class frmLogin
 
         Me.BackColor = Color.Gainsboro
         Me.ForeColor = Color.Black
-        Me.Text = "ProServ Management System"
+        Me.Text = "Service Management System"
 
         Dim line As String
 
@@ -99,8 +99,7 @@ Public Class frmLogin
 
                     Dim frmDB_usrnm As String = dtDataRows("username").ToString().Trim().ToUpper()
                     Dim frmDB_pw As String = dtDataRows("password").ToString.Trim().ToUpper()
-
-                    'theUser = frmDB_usrnm.ToString.ToUpper.Trim
+                    'theUser = frmDB_usrnsm.ToString.ToUpper.Trim
 
                     dtData.Rows.Add(New Object() {frmDB_usrnm.ToUpper.ToString.Trim, frmDB_pw.ToString.Trim.ToUpper})
 

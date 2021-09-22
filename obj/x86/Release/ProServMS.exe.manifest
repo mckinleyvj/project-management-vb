@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>JfL9k1o3sNVfVT4ppoBxtkWl0qQ=</dsig:DigestValue>
+        <dsig:DigestValue>XR61rQpAVquRvKgMuyaVaQGJ/Dk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -132,22 +132,22 @@
       <dsig:DigestValue>+IErg6FRsSQUVSEcQf++pgr1VbM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="bin\Release\prnJobsheet.XML" size="67" writeableType="applicationData">
+  <file name="bin\Release\prnJobsheet.XML" size="3031" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>SVFhwWnDW7ZMcWILlaeYSJ538WI=</dsig:DigestValue>
+      <dsig:DigestValue>yo6uOmtC46uoleDQKRgxSoRKjzE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="bin\Release\prnProject.XML" size="18365" writeableType="applicationData">
+  <file name="bin\Release\prnProject.XML" size="1938" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Xil9K23VTd3U3se8reCFhEfMPFg=</dsig:DigestValue>
+      <dsig:DigestValue>7tsQCumcG8uxwn/vG3MhfP8arNA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="bin\Release\r_jobsheet.rpt" size="16384">

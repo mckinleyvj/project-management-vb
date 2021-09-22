@@ -1,3 +1,115 @@
 <?xml version="1.0" standalone="yes"?>
 <NewDataSet>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>-</Cust.>
+    <Name>-</Name>
+    <Ref_x0020_No.>-</Ref_x0020_No.>
+    <Job_x0020_Desc>LATE TIME IN BY 21 MINUTES</Job_x0020_Desc>
+    <Create>2/10/2017 04:09:32</Create>
+    <Edit>2/10/2017 04:09:32</Edit>
+    <DoC />
+    <ReF />
+    <From>08:00</From>
+    <To>08:21</To>
+    <theID>275</theID>
+    <workCode>LATE IN</workCode>
+  </ProjTable>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>-</Cust.>
+    <Name>-</Name>
+    <Ref_x0020_No.>-</Ref_x0020_No.>
+    <Job_x0020_Desc>UPDATE TIMESHEET</Job_x0020_Desc>
+    <Create>2/10/2017 04:09:56</Create>
+    <Edit>2/10/2017 04:09:56</Edit>
+    <DoC />
+    <ReF />
+    <From>08:21</From>
+    <To>09:39</To>
+    <theID>276</theID>
+    <workCode>OFFICE</workCode>
+  </ProjTable>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>BO01</Cust.>
+    <Name>BORNEO UNITED ENTERPRISE</Name>
+    <Ref_x0020_No.>PRJ-000022</Ref_x0020_No.>
+    <Job_x0020_Desc>S/57758
+BORNEO UNITED ENTERPRISE
+RUN YEAR END FOR NOUZHAH. 2 YEARS (31/12/2014 &amp; 31/12/2015)</Job_x0020_Desc>
+    <Create>2/10/2017 04:10:42</Create>
+    <Edit>2/10/2017 04:10:42</Edit>
+    <DoC>PRJ</DoC>
+    <ReF>000022</ReF>
+    <From>09:39</From>
+    <To>11:30</To>
+    <theID>277</theID>
+    <workCode>YEAR END</workCode>
+  </ProjTable>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>-</Cust.>
+    <Name>-</Name>
+    <Ref_x0020_No.>-</Ref_x0020_No.>
+    <Job_x0020_Desc>UPDATE TIMESHEET &amp; PRINT REPORTS FOR SUBMISSION</Job_x0020_Desc>
+    <Create>2/10/2017 04:11:26</Create>
+    <Edit>3/10/2017 01:36:56</Edit>
+    <DoC />
+    <ReF />
+    <From>11:30</From>
+    <To>14:30</To>
+    <theID>278</theID>
+    <workCode>OFFICE</workCode>
+  </ProjTable>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>WG10</Cust.>
+    <Name>WG OFFICE SUPPLIES AND SERVICES</Name>
+    <Ref_x0020_No.>PRJ-000001</Ref_x0020_No.>
+    <Job_x0020_Desc>- UPDATE ICON FOR TIMESHEET MANAGEMENT SYSTEM
+- UPDATE DEPLOYMENT FOR INSTALLATION ON NETWORK TERMINALS
+- UPDATE PICKPROJECT MODULE TO SELECT ONLY 'IN PROGRESS' PROJECTS</Job_x0020_Desc>
+    <Create>2/10/2017 04:12:32</Create>
+    <Edit>2/10/2017 04:12:32</Edit>
+    <DoC>PRJ</DoC>
+    <ReF>000001</ReF>
+    <From>14:30</From>
+    <To>15:30</To>
+    <theID>279</theID>
+    <workCode>DEVELOP</workCode>
+  </ProjTable>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>-</Cust.>
+    <Name>-</Name>
+    <Ref_x0020_No.>-</Ref_x0020_No.>
+    <Job_x0020_Desc>- MEETING WITH MR GOH ON REGARDS OF PAYROLL
+- DEMO SCHEDULE FOR GHK MOVED TO MONDAY, 9TH OCTOBER
+- FEEDBACK FROM SKH DEMO</Job_x0020_Desc>
+    <Create>2/10/2017 04:13:31</Create>
+    <Edit>3/10/2017 02:35:11</Edit>
+    <DoC />
+    <ReF />
+    <From>15:30</From>
+    <To>16:12</To>
+    <theID>280</theID>
+    <workCode>MEETING</workCode>
+  </ProjTable>
+  <ProjTable>
+    <C>false</C>
+    <Cust.>GO01</Cust.>
+    <Name>GHK ASSEMBLY</Name>
+    <Ref_x0020_No.>PRJ-000019</Ref_x0020_No.>
+    <Job_x0020_Desc>Test ERP 9.0.121.0 on issuing parts to Debtor:
+i) Using Stock Issue module to find out if cost can be pulled out on report</Job_x0020_Desc>
+    <Create>3/10/2017 08:28:12</Create>
+    <Edit>3/10/2017 08:28:12</Edit>
+    <DoC>PRJ</DoC>
+    <ReF>000019</ReF>
+    <From>16:12</From>
+    <To>17:00</To>
+    <theID>303</theID>
+    <workCode>SYSTEM</workCode>
+  </ProjTable>
 </NewDataSet>
